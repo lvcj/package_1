@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/lvcj/package_1.git"
   },
-  "author": "",
+  "author": "lvcj",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lvcj/package_1/issues"
